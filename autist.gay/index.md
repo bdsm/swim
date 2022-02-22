@@ -1,4 +1,4 @@
-#The allegations are true
+# The allegations are true
 
 Your eyes haven't deceived you. 
 You may know me by a variety of names and faces, but there's one thing that remains consistent across all my identities regardless of the mask I wear - and that is that I'm gay and autistic.
