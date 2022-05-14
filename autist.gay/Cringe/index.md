@@ -18,12 +18,11 @@ I do not consider myself entirely above all cringe listed, however, I still have
 <tr><td>Linus Torvalds, Richard Stallman.</td><td>Theo de Raadt, Terry Davis.</td></tr>
 <tr><td>The Free Software Foundation.</td><td>The Electronic Frontier Foundation.</td></tr>
 <tr><td>SSRIs.</td><td>Ketamine.</td></tr>
-<tr><td>Spironolactone, cyproterone acetate for hormone replacement therapy.</td><td>Bicalutamide, estradiol monotherapy, a convincing placebo in the case of spironolactone.</td></tr>
+<tr><td>Spironolactone, cyproterone acetate for HRT.</td><td>Bicalutamide, estradiol monotherapy, a convincing placebo in the case of spironolactone.</td></tr>
 <tr><td>.380 ACP, 40 S&W.</td><td>.38 Special, 9x19mm, 9x18mm, .45 ACP, .22 LR, a rock.</td></tr>
 <tr><td>Dogs.</td><td>Cats, raccoons, snakes, ferrets, chinchillas.</td></tr>
-<tr><td>Anarcho-communism, anarcho syndicalism to a lesser extent.</td><td>Post-left anarchism, free-market anarchism.</td></tr>
-<tr><td>Anarcho-capitalism, objectivism.</td><td>Just be an agorist or even a neoreactionary at this point, I don't know what to tell you.</td></tr> 
-<tr><td>Top/bottom dynamics.</td><td>A Hobbesian state of nature from which one emerges the Leviathan.</td></tr>
+<tr><td>Anarcho-communism, "anarcho"-capitalism.</td><td>Post-left anarchism, free-market anarchism, agorism, possibly even some NRx shit.</td></tr>
+<tr><td>Top/bottom dynamics.</td><td>A Hobbesian state of nature from which any/all parties emerge the Leviathan.</td></tr>
 <tr><td>Attraction to masculinity.</td><td>Attraction to femininity.</td></tr>
 <tr><td>Doing things "ironically."</td><td>Embracing the things you enjoy wholeheartedly and without shame (assuming they aren't in the left column of this table).</td></tr>
 <tr><td>This website.</td><td>Basically any other site built on werc.</td></tr>
